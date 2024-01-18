@@ -1,2 +1,3 @@
-# hello-world
-Hello World
+# About Me
+
+Cybersecurity interests me because I value privacy and security. Trying to break into systems and figure out how they work is fun to me and it is a bonus that by doing so I can help make systems more secure. One of my strengths is dealing with ambiguity and due to the ever-changing landscape of cybersecurity this allows me to calmly navigate new issues or vulnerabilities. One of my past work experiences was in the realm of inventory. This has helped shape my mindset because one of my job responsibilities was to investigate shrink. The mindset is the same in the way we would investigate a security breach in an organization. One of my core values is the belief in doing what is right. To me one of the most important aspects of the computer industry is keeping in line with good ethics. Therefore, my strengths, values, and interest in the field of cybersecurity meets the security needs of any organization.
